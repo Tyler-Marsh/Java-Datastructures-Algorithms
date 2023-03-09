@@ -1,5 +1,4 @@
 # Java-Datastructures-Algorithms
 Algorithms and datastructures questions solved with Java
 
-
-#Leetcode questions solved using Java
+Files are within SRC. Each has its own main method to run in an IDE
